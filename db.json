@@ -5,15 +5,8 @@
       "nombre": "Samsung Galaxy S23",
       "marca": "Samsung",
       "precio": 850,
-      "usoIdeal": [
-        "fotografia",
-        "multimedia",
-        "gaming"
-      ],
-      "color": [
-        "Negro",
-        "Verde"
-      ],
+      "usoIdeal": ["fotografia", "multimedia", "gaming"],
+      "color": ["Negro", "Verde"],
       "tamano": "mediano",
       "resumen": "Pantalla 6.1\", Snapdragon 8 Gen 2, cámara triple de 50MP",
       "idImagen": "s23.png",
@@ -32,15 +25,8 @@
       "nombre": "iPhone 13",
       "marca": "Apple",
       "precio": 950,
-      "usoIdeal": [
-        "video",
-        "gaming",
-        "multimedia"
-      ],
-      "color": [
-        "Blanco",
-        "Negro"
-      ],
+      "usoIdeal": ["video", "gaming", "multimedia"],
+      "color": ["Blanco", "Negro"],
       "tamano": "mediano",
       "resumen": "Pantalla 6.1\", chip A15, gran rendimiento y cámara",
       "idImagen": "iphone13.png",
@@ -58,14 +44,8 @@
       "nombre": "Motorola E32",
       "marca": "Motorola",
       "precio": 150,
-      "usoIdeal": [
-        "basico",
-        "comunicacion"
-      ],
-      "color": [
-        "Gris",
-        "Negro"
-      ],
+      "usoIdeal": ["basico", "comunicacion"],
+      "color": ["Gris", "Negro"],
       "tamano": "grande",
       "resumen": "Pantalla 6.5\", básico pero confiable",
       "idImagen": "motoe32.png",
@@ -82,15 +62,8 @@
       "nombre": "Xiaomi Redmi Note 12",
       "marca": "Xiaomi",
       "precio": 250,
-      "usoIdeal": [
-        "multimedia",
-        "gaming"
-      ],
-      "color": [
-        "Azul",
-        "Blanco",
-        "Negro"
-      ],
+      "usoIdeal": ["multimedia", "gaming"],
+      "color": ["Azul", "Blanco", "Negro"],
       "tamano": "grande",
       "resumen": "Pantalla AMOLED 6.67\", buen rendimiento y cámara",
       "idImagen": "redminote12.png",
@@ -108,15 +81,8 @@
       "nombre": "Samsung Galaxy A14",
       "marca": "Samsung",
       "precio": 200,
-      "usoIdeal": [
-        "multimedia",
-        "educacion",
-        "comunicacion"
-      ],
-      "color": [
-        "Negro",
-        "Rojo"
-      ],
+      "usoIdeal": ["multimedia", "educacion", "comunicacion"],
+      "color": ["Negro", "Rojo"],
       "tamano": "grande",
       "resumen": "Pantalla 6.6\", buen rendimiento básico",
       "idImagen": "a14.png",
@@ -134,16 +100,8 @@
       "nombre": "Xiaomi 13",
       "marca": "Xiaomi",
       "precio": 130,
-      "usoIdeal": [
-        "gaming",
-        "fotografia",
-        "multimedia"
-      ],
-      "color": [
-        "Verde",
-        "Negro",
-        "Blanco"
-      ],
+      "usoIdeal": ["gaming", "fotografia", "multimedia"],
+      "color": ["Verde", "Negro", "Blanco"],
       "tamano": "mediano",
       "resumen": "Potente, gran cámara y rendimiento",
       "idImagen": "xiaomi13.png",
@@ -162,14 +120,8 @@
       "nombre": "Google Pixel 6a",
       "marca": "Google",
       "precio": 420,
-      "usoIdeal": [
-        "fotografia",
-        "productividad"
-      ],
-      "color": [
-        "Negro",
-        "Verde"
-      ],
+      "usoIdeal": ["fotografia", "productividad"],
+      "color": ["Negro", "Verde"],
       "tamano": "mediano",
       "resumen": "Pantalla OLED 6.1\", chip Google Tensor, excelente cámara",
       "idImagen": "pixel6a.png",
@@ -186,15 +138,8 @@
       "nombre": "Realme 11 Pro",
       "marca": "Realme",
       "precio": 320,
-      "usoIdeal": [
-        "multimedia",
-        "gaming",
-        "fotografia"
-      ],
-      "color": [
-        "Oro",
-        "Negro"
-      ],
+      "usoIdeal": ["multimedia", "gaming", "fotografia"],
+      "color": ["Oro", "Negro"],
       "tamano": "grande",
       "resumen": "Pantalla curva AMOLED 6.7\", cámara 100MP",
       "idImagen": "realme11pro.png",
@@ -213,14 +158,8 @@
       "nombre": "Nokia G22",
       "marca": "Nokia",
       "precio": 180,
-      "usoIdeal": [
-        "comunicacion",
-        "educacion"
-      ],
-      "color": [
-        "Azul",
-        "Gris"
-      ],
+      "usoIdeal": ["comunicacion", "educacion"],
+      "color": ["Azul", "Gris"],
       "tamano": "grande",
       "resumen": "Pantalla 6.5\", batería duradera y diseño reparable",
       "idImagen": "nokiaG22.png",
@@ -236,16 +175,8 @@
       "nombre": "Honor 90",
       "marca": "Honor",
       "precio": 500,
-      "usoIdeal": [
-        "fotografia",
-        "gaming",
-        "multimedia"
-      ],
-      "color": [
-        "Verde",
-        "Negro",
-        "Plata"
-      ],
+      "usoIdeal": ["fotografia", "gaming", "multimedia"],
+      "color": ["Verde", "Negro", "Plata"],
       "tamano": "grande",
       "resumen": "Pantalla AMOLED 6.7\", cámara 200MP y Snapdragon 7 Gen 1",
       "idImagen": "honor90.png",
@@ -264,14 +195,8 @@
       "nombre": "Oppo Reno 8",
       "marca": "Oppo",
       "precio": 400,
-      "usoIdeal": [
-        "fotografia",
-        "multimedia"
-      ],
-      "color": [
-        "Negro",
-        "Dorado"
-      ],
+      "usoIdeal": ["fotografia", "multimedia"],
+      "color": ["Negro", "Dorado"],
       "tamano": "mediano",
       "resumen": "Pantalla AMOLED 6.4\", cámara de 64MP, buena duración de batería",
       "idImagen": "oppoReno8.png",
@@ -289,15 +214,8 @@
       "nombre": "Vivo V21",
       "marca": "Vivo",
       "precio": 350,
-      "usoIdeal": [
-        "fotografia",
-        "redes",
-        "multimedia"
-      ],
-      "color": [
-        "Azul",
-        "Negro"
-      ],
+      "usoIdeal": ["fotografia", "redes", "multimedia"],
+      "color": ["Azul", "Negro"],
       "tamano": "mediano",
       "resumen": "Cámara frontal de 44MP, diseño delgado, pantalla AMOLED",
       "idImagen": "vivoV21.png",
@@ -316,14 +234,8 @@
       "nombre": "Infinix Zero 5G",
       "marca": "Infinix",
       "precio": 220,
-      "usoIdeal": [
-        "gaming",
-        "multimedia"
-      ],
-      "color": [
-        "Negro",
-        "Amarillo"
-      ],
+      "usoIdeal": ["gaming", "multimedia"],
+      "color": ["Negro", "Amarillo"],
       "tamano": "grande",
       "resumen": "Pantalla 6.78\", batería de larga duración, 5G",
       "idImagen": "infinixZero5G.png",
@@ -340,14 +252,8 @@
       "nombre": "ZTE Blade V40",
       "marca": "ZTE",
       "precio": 180,
-      "usoIdeal": [
-        "comunicacion",
-        "educacion"
-      ],
-      "color": [
-        "Gris",
-        "Azul"
-      ],
+      "usoIdeal": ["comunicacion", "educacion"],
+      "color": ["Gris", "Azul"],
       "tamano": "grande",
       "resumen": "Pantalla grande, batería de 6000mAh, buen rendimiento básico",
       "idImagen": "zteBladeV40.png",
@@ -364,14 +270,8 @@
       "nombre": "Realme C55",
       "marca": "Realme",
       "precio": 170,
-      "usoIdeal": [
-        "redes",
-        "basico"
-      ],
-      "color": [
-        "Negro",
-        "Verde"
-      ],
+      "usoIdeal": ["redes", "basico"],
+      "color": ["Negro", "Verde"],
       "tamano": "mediano",
       "resumen": "Diseño moderno, pantalla de 6.72\", ideal para redes sociales",
       "idImagen": "realmeC55.png",
@@ -389,14 +289,8 @@
       "nombre": "Lenovo K13 Note",
       "marca": "Lenovo",
       "precio": 160,
-      "usoIdeal": [
-        "basico",
-        "educacion"
-      ],
-      "color": [
-        "Gris",
-        "Azul"
-      ],
+      "usoIdeal": ["basico", "educacion"],
+      "color": ["Gris", "Azul"],
       "tamano": "mediano",
       "resumen": "Pantalla HD+ de 6.5\", batería de 5000mAh, rendimiento básico",
       "idImagen": "lenovoK13Note.png",
@@ -413,14 +307,8 @@
       "nombre": "Alcatel 1S",
       "marca": "Alcatel",
       "precio": 120,
-      "usoIdeal": [
-        "comunicacion",
-        "basico"
-      ],
-      "color": [
-        "Negro",
-        "Plata"
-      ],
+      "usoIdeal": ["comunicacion", "basico"],
+      "color": ["Negro", "Plata"],
       "tamano": "pequeño",
       "resumen": "Ideal para llamadas y mensajería, pantalla de 5.5\"",
       "idImagen": "alcatel1S.png",
@@ -437,14 +325,8 @@
       "nombre": "TCL 30 SE",
       "marca": "TCL",
       "precio": 190,
-      "usoIdeal": [
-        "educacion",
-        "multimedia"
-      ],
-      "color": [
-        "Azul",
-        "Gris"
-      ],
+      "usoIdeal": ["educacion", "multimedia"],
+      "color": ["Azul", "Gris"],
       "tamano": "grande",
       "resumen": "Pantalla HD+ de 6.52\", sonido estéreo, 128GB de almacenamiento",
       "idImagen": "tcl30SE.png",
@@ -461,14 +343,8 @@
       "nombre": "Doogee N40 Pro",
       "marca": "Doogee",
       "precio": 200,
-      "usoIdeal": [
-        "trabajo",
-        "productividad"
-      ],
-      "color": [
-        "Marrón",
-        "Negro"
-      ],
+      "usoIdeal": ["trabajo", "productividad"],
+      "color": ["Marrón", "Negro"],
       "tamano": "grande",
       "resumen": "Gran batería de 6380mAh, resistente y confiable",
       "idImagen": "doogeeN40Pro.png",
@@ -485,14 +361,8 @@
       "nombre": "Blackview A95",
       "marca": "Blackview",
       "precio": 210,
-      "usoIdeal": [
-        "redes",
-        "fotografia"
-      ],
-      "color": [
-        "Rosa",
-        "Negro"
-      ],
+      "usoIdeal": ["redes", "fotografia"],
+      "color": ["Rosa", "Negro"],
       "tamano": "mediano",
       "resumen": "Diseño elegante, buena cámara y rendimiento decente",
       "idImagen": "blackviewA95.png",
@@ -510,14 +380,8 @@
       "nombre": "Motorola G73",
       "marca": "Motorola",
       "precio": 280,
-      "usoIdeal": [
-        "multimedia",
-        "comunicacion"
-      ],
-      "color": [
-        "Negro",
-        "Azul"
-      ],
+      "usoIdeal": ["multimedia", "comunicacion"],
+      "color": ["Negro", "Azul"],
       "tamano": "mediano",
       "resumen": "Pantalla FHD+ 6.5\", sonido estéreo, buen rendimiento",
       "idImagen": "motorolaG73.png",
@@ -534,14 +398,8 @@
       "nombre": "Nubia Red Magic 7",
       "marca": "ZTE",
       "precio": 620,
-      "usoIdeal": [
-        "gaming",
-        "multimedia"
-      ],
-      "color": [
-        "Negro",
-        "Rojo"
-      ],
+      "usoIdeal": ["gaming", "multimedia"],
+      "color": ["Negro", "Rojo"],
       "tamano": "grande",
       "resumen": "Pantalla 6.8\", Snapdragon 8 Gen 1, refrigeración líquida",
       "idImagen": "nubiaRedMagic7.png",
@@ -558,15 +416,8 @@
       "nombre": "Sony Xperia 10 IV",
       "marca": "Sony",
       "precio": 430,
-      "usoIdeal": [
-        "multimedia",
-        "fotografia"
-      ],
-      "color": [
-        "Verde",
-        "Negro",
-        "Blanco"
-      ],
+      "usoIdeal": ["multimedia", "fotografia"],
+      "color": ["Verde", "Negro", "Blanco"],
       "tamano": "mediano",
       "resumen": "Pantalla OLED 6\", cámara triple, resistente al agua",
       "idImagen": "sonyXperia10IV.png",
@@ -583,15 +434,8 @@
       "nombre": "ASUS Zenfone 9",
       "marca": "ASUS",
       "precio": 700,
-      "usoIdeal": [
-        "gaming",
-        "fotografia",
-        "multimedia"
-      ],
-      "color": [
-        "Negro",
-        "Rojo"
-      ],
+      "usoIdeal": ["gaming", "fotografia", "multimedia"],
+      "color": ["Negro", "Rojo"],
       "tamano": "mediano",
       "resumen": "Snapdragon 8+, cámara gimbal, compacto y potente",
       "idImagen": "asusZenfone9.png",
@@ -609,15 +453,8 @@
       "nombre": "Meizu 18",
       "marca": "Meizu",
       "precio": 550,
-      "usoIdeal": [
-        "fotografia",
-        "multimedia",
-        "gaming"
-      ],
-      "color": [
-        "Blanco",
-        "Negro"
-      ],
+      "usoIdeal": ["fotografia", "multimedia", "gaming"],
+      "color": ["Blanco", "Negro"],
       "tamano": "mediano",
       "resumen": "Snapdragon 888, pantalla 120Hz, sin bloatware",
       "idImagen": "meizu18.png",
@@ -635,15 +472,8 @@
       "nombre": "OnePlus Nord CE 3",
       "marca": "OnePlus",
       "precio": 320,
-      "usoIdeal": [
-        "gaming",
-        "redes",
-        "fotografia"
-      ],
-      "color": [
-        "Verde",
-        "Negro"
-      ],
+      "usoIdeal": ["gaming", "redes", "fotografia"],
+      "color": ["Verde", "Negro"],
       "tamano": "grande",
       "resumen": "Pantalla AMOLED 6.7\", 5G, carga rápida",
       "idImagen": "onePlusNordCE3.png",
@@ -661,14 +491,8 @@
       "nombre": "Itel Vision 5",
       "marca": "Itel",
       "precio": 110,
-      "usoIdeal": [
-        "basico",
-        "comunicacion"
-      ],
-      "color": [
-        "Azul",
-        "Gris"
-      ],
+      "usoIdeal": ["basico", "comunicacion"],
+      "color": ["Azul", "Gris"],
       "tamano": "grande",
       "resumen": "Pantalla 6.6\", batería 5000mAh, simple y económico",
       "idImagen": "itelVision5.png",
@@ -685,14 +509,8 @@
       "nombre": "Umidigi Power 7",
       "marca": "Umidigi",
       "precio": 140,
-      "usoIdeal": [
-        "educacion",
-        "basico"
-      ],
-      "color": [
-        "Negro",
-        "Celeste"
-      ],
+      "usoIdeal": ["educacion", "basico"],
+      "color": ["Negro", "Celeste"],
       "tamano": "grande",
       "resumen": "Batería de 6150mAh, pantalla HD+ de 6.7\"",
       "idImagen": "umidigiPower7.png",
@@ -709,14 +527,8 @@
       "nombre": "Elephone E10 Pro",
       "marca": "Elephone",
       "precio": 180,
-      "usoIdeal": [
-        "redes",
-        "educacion"
-      ],
-      "color": [
-        "Negro",
-        "Dorado"
-      ],
+      "usoIdeal": ["redes", "educacion"],
+      "color": ["Negro", "Dorado"],
       "tamano": "mediano",
       "resumen": "Cámara cuádruple, pantalla 6.5\", buena conectividad",
       "idImagen": "elephoneE10Pro.png",
@@ -734,14 +546,8 @@
       "nombre": "Oukitel C25",
       "marca": "Oukitel",
       "precio": 130,
-      "usoIdeal": [
-        "basico",
-        "comunicacion"
-      ],
-      "color": [
-        "Verde",
-        "Negro"
-      ],
+      "usoIdeal": ["basico", "comunicacion"],
+      "color": ["Verde", "Negro"],
       "tamano": "mediano",
       "resumen": "Pantalla de 6.5\", batería de larga duración, Android 11",
       "idImagen": "oukitelC25.png",
@@ -758,13 +564,8 @@
       "nombre": "CAT S62 Pro",
       "marca": "CAT",
       "precio": 600,
-      "usoIdeal": [
-        "trabajo",
-        "productividad"
-      ],
-      "color": [
-        "Negro"
-      ],
+      "usoIdeal": ["trabajo", "productividad"],
+      "color": ["Negro"],
       "tamano": "mediano",
       "resumen": "Smartphone ultra resistente con cámara térmica FLIR",
       "idImagen": "catS62Pro.png",
@@ -781,14 +582,8 @@
       "nombre": "Doogee S97 Pro",
       "marca": "Doogee",
       "precio": 350,
-      "usoIdeal": [
-        "trabajo",
-        "gaming"
-      ],
-      "color": [
-        "Naranja",
-        "Negro"
-      ],
+      "usoIdeal": ["trabajo", "gaming"],
+      "color": ["Naranja", "Negro"],
       "tamano": "grande",
       "resumen": "Resistente al agua, láser de medición y gran batería",
       "idImagen": "doogeeS97Pro.png",
@@ -805,14 +600,8 @@
       "nombre": "Fairphone 4",
       "marca": "Fairphone",
       "precio": 580,
-      "usoIdeal": [
-        "educacion",
-        "trabajo"
-      ],
-      "color": [
-        "Verde",
-        "Gris"
-      ],
+      "usoIdeal": ["educacion", "trabajo"],
+      "color": ["Verde", "Gris"],
       "tamano": "mediano",
       "resumen": "Teléfono modular y sostenible con Android limpio",
       "idImagen": "fairphone4.png",
@@ -829,14 +618,8 @@
       "nombre": "Gigaset GS5",
       "marca": "Gigaset",
       "precio": 230,
-      "usoIdeal": [
-        "comunicacion",
-        "basico"
-      ],
-      "color": [
-        "Gris",
-        "Negro"
-      ],
+      "usoIdeal": ["comunicacion", "basico"],
+      "color": ["Gris", "Negro"],
       "tamano": "mediano",
       "resumen": "Hecho en Alemania, batería removible, NFC incluido",
       "idImagen": "gigasetGS5.png",
@@ -853,14 +636,8 @@
       "nombre": "Ulefone Note 11P",
       "marca": "Ulefone",
       "precio": 180,
-      "usoIdeal": [
-        "educacion",
-        "comunicacion"
-      ],
-      "color": [
-        "Verde",
-        "Negro"
-      ],
+      "usoIdeal": ["educacion", "comunicacion"],
+      "color": ["Verde", "Negro"],
       "tamano": "grande",
       "resumen": "Pantalla 6.55\", 8GB RAM, buena para multitareas",
       "idImagen": "ulefoneNote11P.png",
@@ -877,14 +654,8 @@
       "nombre": "Bluboo S1",
       "marca": "Bluboo",
       "precio": 150,
-      "usoIdeal": [
-        "multimedia",
-        "basico"
-      ],
-      "color": [
-        "Negro",
-        "Blanco"
-      ],
+      "usoIdeal": ["multimedia", "basico"],
+      "color": ["Negro", "Blanco"],
       "tamano": "mediano",
       "resumen": "Diseño sin bordes, buena pantalla, precio asequible",
       "idImagen": "blubooS1.png",
@@ -901,14 +672,8 @@
       "nombre": "Cubot X30",
       "marca": "Cubot",
       "precio": 190,
-      "usoIdeal": [
-        "fotografia",
-        "educacion"
-      ],
-      "color": [
-        "Azul",
-        "Negro"
-      ],
+      "usoIdeal": ["fotografia", "educacion"],
+      "color": ["Azul", "Negro"],
       "tamano": "grande",
       "resumen": "Cámara quíntuple, 8GB RAM, Android limpio",
       "idImagen": "cubotX30.png",
@@ -921,42 +686,12 @@
       }
     },
     {
-      "id": "verneeM8Pro",
-      "nombre": "Vernee M8 Pro",
-      "marca": "Vernee",
-      "precio": 210,
-      "usoIdeal": [
-        "redes",
-        "comunicacion"
-      ],
-      "color": [
-        "Negro",
-        "Gris"
-      ],
-      "tamano": "mediano",
-      "resumen": "Gran batería, desbloqueo facial, buena relación precio/calidad",
-      "idImagen": "verneeM8Pro.png",
-      "linksCompra": {
-        "Amazon España": "https://www.amazon.es/s?k=Vernee+M8+Pro"
-      },
-      "etiquetas": {
-        "fluidez": 8,
-        "facilidad": 7
-      }
-    },
-    {
       "id": "hisenseE50Lite",
       "nombre": "Hisense E50 Lite",
       "marca": "Hisense",
       "precio": 140,
-      "usoIdeal": [
-        "basico",
-        "educacion"
-      ],
-      "color": [
-        "Negro",
-        "Azul"
-      ],
+      "usoIdeal": ["basico", "educacion"],
+      "color": ["Negro", "Azul"],
       "tamano": "mediano",
       "resumen": "Sencillo, con Android 11 Go y batería confiable",
       "idImagen": "hisenseE50Lite.png",
@@ -973,14 +708,8 @@
       "nombre": "BQ Aquaris X2",
       "marca": "BQ",
       "precio": 260,
-      "usoIdeal": [
-        "multimedia",
-        "fotografia"
-      ],
-      "color": [
-        "Blanco",
-        "Negro"
-      ],
+      "usoIdeal": ["multimedia", "fotografia"],
+      "color": ["Blanco", "Negro"],
       "tamano": "mediano",
       "resumen": "Android One, buena cámara y pantalla IPS",
       "idImagen": "bqAquarisX2.png",
@@ -993,43 +722,12 @@
       }
     },
     {
-      "id": "meizu18",
-      "nombre": "Meizu 18",
-      "marca": "Meizu",
-      "precio": 620,
-      "usoIdeal": [
-        "fotografia",
-        "gaming"
-      ],
-      "color": [
-        "Azul",
-        "Blanco"
-      ],
-      "tamano": "mediano",
-      "resumen": "Pantalla AMOLED 120Hz, Snapdragon 888, cámara triple",
-      "idImagen": "meizu18.png",
-      "linksCompra": {
-        "Amazon España": "https://www.amazon.es/s?k=Meizu+18"
-      },
-      "etiquetas": {
-        "camara": 8,
-        "rendimiento": 9,
-        "edicion": 6
-      }
-    },
-    {
       "id": "leEcoLePro3",
       "nombre": "LeEco Le Pro3",
       "marca": "LeEco",
       "precio": 200,
-      "usoIdeal": [
-        "multimedia",
-        "basico"
-      ],
-      "color": [
-        "Dorado",
-        "Gris"
-      ],
+      "usoIdeal": ["multimedia", "basico"],
+      "color": ["Dorado", "Gris"],
       "tamano": "mediano",
       "resumen": "Buen rendimiento a bajo precio, pantalla 5.5\"",
       "idImagen": "leEcoLePro3.png",
@@ -1046,13 +744,8 @@
       "nombre": "Energizer Power Max P18K",
       "marca": "Energizer",
       "precio": 250,
-      "usoIdeal": [
-        "trabajo",
-        "basico"
-      ],
-      "color": [
-        "Negro"
-      ],
+      "usoIdeal": ["trabajo", "basico"],
+      "color": ["Negro"],
       "tamano": "grande",
       "resumen": "Batería monstruosa de 18000mAh, resistente",
       "idImagen": "energizerPowerMax.png",
@@ -1060,32 +753,8 @@
         "Amazon España": "https://www.amazon.es/s?k=Energizer+Power+Max"
       },
       "etiquetas": {
-        "bateria": 6,
+        "bateria": 9,
         "multitarea": 8
-      }
-    },
-    {
-      "id": "sonyXperia10",
-      "nombre": "Sony Xperia 10",
-      "marca": "Sony",
-      "precio": 300,
-      "usoIdeal": [
-        "multimedia",
-        "fotografia"
-      ],
-      "color": [
-        "Negro",
-        "Azul"
-      ],
-      "tamano": "mediano",
-      "resumen": "Pantalla ultra ancha 21:9, buen audio y cámara",
-      "idImagen": "sonyXperia10.png",
-      "linksCompra": {
-        "Amazon España": "https://www.amazon.es/s?k=Sony+Xperia+10"
-      },
-      "etiquetas": {
-        "video": 7,
-        "camara": 7
       }
     },
     {
@@ -1093,13 +762,8 @@
       "nombre": "Sharp Aquos R6",
       "marca": "Sharp",
       "precio": 900,
-      "usoIdeal": [
-        "fotografia",
-        "multimedia"
-      ],
-      "color": [
-        "Negro"
-      ],
+      "usoIdeal": ["fotografia", "multimedia"],
+      "color": ["Negro", "Blanco"],
       "tamano": "grande",
       "resumen": "Sensor de cámara de 1 pulgada, pantalla Pro IGZO OLED",
       "idImagen": "sharpAquosR6.png",
@@ -1117,14 +781,8 @@
       "nombre": "Asus Zenfone 8",
       "marca": "Asus",
       "precio": 680,
-      "usoIdeal": [
-        "gaming",
-        "multimedia"
-      ],
-      "color": [
-        "Negro",
-        "Plata"
-      ],
+      "usoIdeal": ["gaming", "multimedia"],
+      "color": ["Negro", "Plata"],
       "tamano": "pequeño",
       "resumen": "Compacto con Snapdragon 888, pantalla AMOLED 120Hz",
       "idImagen": "asusZenfone8.png",
@@ -1141,14 +799,8 @@
       "nombre": "Honor X8a",
       "marca": "Honor",
       "precio": 220,
-      "usoIdeal": [
-        "educacion",
-        "comunicacion"
-      ],
-      "color": [
-        "Negro",
-        "Verde"
-      ],
+      "usoIdeal": ["educacion", "comunicacion"],
+      "color": ["Negro", "Verde"],
       "tamano": "grande",
       "resumen": "Cámara 100MP, diseño atractivo, Android 12",
       "idImagen": "honorX8a.png",
@@ -1165,14 +817,8 @@
       "nombre": "OnePlus Nord N20",
       "marca": "OnePlus",
       "precio": 270,
-      "usoIdeal": [
-        "redes",
-        "gaming"
-      ],
-      "color": [
-        "Azul",
-        "Negro"
-      ],
+      "usoIdeal": ["redes", "gaming"],
+      "color": ["Azul", "Negro"],
       "tamano": "mediano",
       "resumen": "Diseño moderno, buena pantalla AMOLED, 5G",
       "idImagen": "oneplusNordN20.png",
@@ -1189,14 +835,8 @@
       "nombre": "Vsmart Joy 4",
       "marca": "Vsmart",
       "precio": 160,
-      "usoIdeal": [
-        "educacion",
-        "basico"
-      ],
-      "color": [
-        "Negro",
-        "Azul"
-      ],
+      "usoIdeal": ["educacion", "basico"],
+      "color": ["Negro", "Azul"],
       "tamano": "mediano",
       "resumen": "Smartphone económico con buena pantalla y batería",
       "idImagen": "vsmartJoy4.png",
@@ -1213,15 +853,8 @@
       "nombre": "ZTE Axon 30",
       "marca": "ZTE",
       "precio": 370,
-      "usoIdeal": [
-        "fotografia",
-        "gaming",
-        "multimedia"
-      ],
-      "color": [
-        "Negro",
-        "Verde"
-      ],
+      "usoIdeal": ["fotografia", "gaming", "multimedia"],
+      "color": ["Negro", "Verde"],
       "tamano": "grande",
       "resumen": "Cámara bajo pantalla, pantalla AMOLED 120Hz",
       "idImagen": "zteAxon30.png",
